@@ -1,0 +1,18 @@
+#btn-banner {
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: Lora, serif; 
+}
+
+
+.btn-blue {
+	background-color: #86C6F4;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Lora, serif; 
+}
